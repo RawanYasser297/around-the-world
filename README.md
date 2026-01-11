@@ -1,6 +1,3 @@
-
-// ...existing code...
-
 # Around The World
 
 A small React app that lists countries, allows searching/filtering and shows country details using the REST Countries API. Built with Vite, React and Tailwind CSS.
